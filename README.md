@@ -65,7 +65,7 @@ To get started with the project, follow these steps:
    git clone https://github.com/MukundhSrikanth/Hybrid-Product-Recommendation-System.git
 
 - Install required dependencies/Setup:
-Follow the instructions in [📓 REAM_ME.txt](#) file:
+Follow the instructions in [📓 REAM_ME.docx](#) file:
 Launch Jupyter Notebooks to explore the model's development and results.
 
 ---
@@ -90,7 +90,7 @@ Feel free to open issues or submit pull requests if you'd like to contribute or 
 
 ## 👤 Author
 Developed by Mukundh Srikanth
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/mukundh-srikanth) or through [GitHub](https://github.com/MukundhSrikanth).
+Feel free to connect with me on LinkedIn(www.linkedin.com/in/mukundh-srikanth) or through [GitHub](https://github.com/MukundhSrikanth).
 
 ---
 
